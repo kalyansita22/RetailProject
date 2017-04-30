@@ -1,1 +1,2 @@
 # RetailProject
+Deals with discounts
